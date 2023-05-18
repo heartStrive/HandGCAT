@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python main/test.py --test_epoch=70 --gpu=0
